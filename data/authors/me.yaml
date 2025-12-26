@@ -5,7 +5,7 @@ name:
   display: Dr. Alex Johnson
   given: Alex
   family: Johnson
-  alternate: ''  # Example: 王伟
+  alternate: '王伟中'  # Example: 王伟
   pronunciation: ''  # Example: Wáng Wěi
   pronouns: he/him
 postnominals:
